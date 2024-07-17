@@ -16,7 +16,7 @@ This repository serves as a record of my journey through the challenge. Here, yo
 
 # Dates - Days
 
-Started Challenge...
+Started Challenge... <br>
 15-07-2024	Day 1	<br>
 16-07-2024	Day 2	<br>
 17-07-2024	Day 3	<br>
